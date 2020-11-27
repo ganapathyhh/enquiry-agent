@@ -2,7 +2,7 @@
 #### Author: Ganapathy Hariharan S
 -----
 
-License: This was developed as a solution for an assignment as a part of Educational/Learning purposes only.
+##### License: This was developed as a solution for an assignment as a part of Educational/Learning purposes only.
 -----
 
 > Files included:
