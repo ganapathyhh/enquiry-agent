@@ -1,5 +1,7 @@
 % File:         kb.pl
 % Author:       Ganapathy Hariharan
+% Reference:    Data were taken from various websites by searching google. Many copyrighted content can be present.
+% License:      For Development/Educational purpose only
 
 % B.E. Branch
 bebranch('Chemical').

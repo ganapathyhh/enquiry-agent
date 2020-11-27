@@ -2,6 +2,9 @@
 #### Author: Ganapathy Hariharan S
 -----
 
+License: This was developed as a solution for an assignment as a part of Educational/Learning purposes only.
+-----
+
 > Files included:
 - [bot.pl](/bot.pl)  
 - [db.pl](/db.pl)  
@@ -33,11 +36,14 @@ Use <kbd>bye</kbd> to stop the conversation.
 1. Ansi Format text (for color in cmd).
 1. Random values picked using random library of swi-prolog.
 1. Asks feedback at the end.
-1. Generates _Conversation Report_ while ending.
-1. Well documented code
+1. Generates _Conversation Report_ at the end.
+1. Well documented code.
 
 **_Follow on screen instructions._**  
-**_Hope you enjoy._**
+**_Hope you enjoy._**
+
+
+
 
 
 
