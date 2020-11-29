@@ -14,7 +14,8 @@
 - [utils.pl](utils.pl)
 
 **Tested with following scenarios**  
-- [X] Swi-Prolog installed in Windows OS
+- [X] Swi-Prolog installed on Windows OS.
+- [X] Swi-prolog installed on Android over Termux.
 
 **Steps to start the agent**
 1. Install swi-prolog for windows from [swi-prolog-website](https://www.swi-prolog.org/download/stable).
